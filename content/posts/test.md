@@ -6,7 +6,9 @@ thumbnail: /images/uploads/AME20181201B010_TP_V4.jpg
 categories:
   - test
 tags:
-  - test img
+  - test
+  - img
 ---
 test
+
 
