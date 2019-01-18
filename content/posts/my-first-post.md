@@ -11,18 +11,4 @@ tags:
   - 写真
   - 新幹線
 ---
-\### 基本的な設定
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-# ・手順2
-
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
-
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
-
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+test
