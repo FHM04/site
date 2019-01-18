@@ -1,7 +1,10 @@
 ---
-title: "My First Post"
-date: 2019-01-18T19:26:25+09:00
+title: My First Post
+description: first post
+date: 2019-01-18T10:26:25.000Z
 draft: false
+thumbnail: /images/uploads/AME20181201B010_TP_V4.jpg
 ---
-
 Hello World!
+
+こんにちは
