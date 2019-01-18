@@ -1,6 +1,6 @@
 ---
-title: My First Post
-description: first post
+title: テスト
+description: テスト
 date: 2019-01-18T10:26:25.000Z
 draft: false
 thumbnail: /images/uploads/test.jpg
@@ -9,6 +9,6 @@ categories:
 tags:
   - test
   - 写真
-  - 新幹線
 ---
 test
+
