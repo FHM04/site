@@ -6,7 +6,3 @@ draft: false
 thumbnail: /images/uploads/東北旅行 10月12日_181205_0024.jpg
 ---
 test
-
-![null](/images/uploads/東北旅行 10月12日_181205_0008.jpg)
-
-
