@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: FHM07/My-Site
+  repo: FHM07/site
   branch: master
 
 media_folder: source/images/
